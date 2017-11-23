@@ -1,0 +1,23 @@
+{
+  "name": "signal-franz-plugin",
+  "version": "1.0.0",
+  "description": "Franz plugin for Signal – https://signal.org/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukasholzer/signal-franz-plugin.git"
+  },
+  "keywords": [
+    "Franz",
+    "Signal"
+  ],
+  "author": "Lukas Holzer <lukas.holzer@typeflow.cc>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukasholzer/signal-franz-plugin/issues"
+  },
+  "homepage": "https://github.com/lukasholzer/signal-franz-plugin#readme"
+}
